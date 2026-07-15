@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20241010</CreaDate><CreaTime>18324400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\StreamToFeature" Date="20241010" Time="183244">StreamToFeature stream_links Clip_fdr.tif C:\Users\kkt\Documents\ArcGIS\Projects\RamsayBasin\Define_streams\DrainageLines.shp NO_SIMPLIFY</Process></lineage></DataProperties></Esri></metadata>
