@@ -7,5 +7,11 @@ This directory contains the code and data (except for raw PlanetScope imagery) n
   * Ramsey_wetted_channel_random_forest_preparation.ipynb: jupyter notebook cleaning and developing training data for the random forest models
   * imagery_dates_explore.ipynb: jupyter notebook demonstrating availability of PlanetScope Imagery and survey data for training
 * Data:
-  *
+  * DrainageLines.shp: shapefile of the geomorphic channel network at Ramsey Canyon
+  * RamseyImageryDates.csv: csv file of available clear-sky PlanetScope Imagery obtained during the pilot period
+  * RamseySurveyDates.csv: csv file of walking survey dates
+  * Ramsey_surveyData.csv: csv of survey data from Ramsey Canyon
+  * Surveyed_Ramsey_1999_2023.shp: shapefile containing reaches mapped for surface water presence during each annual survey
+  * Wet_Ramsey_1999_2023.shp: shapefile containing reaches mapped as wet during each annual survey
+  * daymet_precip.csv: csv file containing Daymet precipitation data for Ramsey Canyon
 
